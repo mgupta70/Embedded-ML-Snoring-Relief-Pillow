@@ -35,7 +35,7 @@ Downloaded Snoring dataset from Kaggle.**-->>** Converted audio signal from .wav
 
 ### Working Demo 
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+<video src='media/working_demo_animated.mp4' width=180/>
 
 
 
