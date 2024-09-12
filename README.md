@@ -34,10 +34,8 @@ Downloaded Snoring dataset from Kaggle.**-->>** Converted audio signal from .wav
 <img src="media/2D_tensor_input.png" alt="Image 2" width="308">
 
 ### Working Demo 
-<video width="600" controls>
-  <source src="media/working_demo_animated.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 
 
